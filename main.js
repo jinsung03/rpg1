@@ -1,3 +1,3 @@
 setInterval(function() {
-alert("test");
+  alert("test");
 }, 5000)
